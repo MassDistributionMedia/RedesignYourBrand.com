@@ -9,6 +9,12 @@ body {
 body * {
 	font-size: 100%;
 }
+a{text-decoration:none;
+color:#fff;
+}
+a:hover{
+	color:pink;
+}
 h1, h2, h3, h4, h5, h6 {
 	font-weight: normal;
 }
@@ -266,4 +272,7 @@ ul.symbolList {
 	height: 54px;
 	margin-bottom: 0;
 	width: 15px;
+}
+.mdm{
+	color:#666;
 }
